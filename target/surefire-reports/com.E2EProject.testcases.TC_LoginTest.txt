@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.E2EProject.testcases.TC_LoginTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 5.288 s <<< FAILURE! - in com.E2EProject.testcases.TC_LoginTest
+setup(com.E2EProject.testcases.TC_LoginTest)  Time elapsed: 5.095 s  <<< FAILURE!
+org.openqa.selenium.InvalidArgumentException: 
+invalid argument
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'ROSHINI-SACHIN-', ip: '192.168.68.85', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\ppkar\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55139}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a10ff2086b69cb40dc4d873bbfb0305
+
